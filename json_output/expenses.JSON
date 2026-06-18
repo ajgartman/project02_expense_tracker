@@ -1,0 +1,44 @@
+[
+    {
+        "category": "Food",
+        "amount": 10,
+        "date": "2026-06-15",
+        "location": "Chipotle"
+    },
+    {
+        "category": "Food",
+        "amount": 2,
+        "date": "2026-06-16",
+        "location": "Tesco"
+    },
+    {
+        "category": "Food",
+        "amount": 22,
+        "date": "2026-06-17",
+        "location": "Chippy's Chips"
+    },
+    {
+        "category": "Transport",
+        "amount": 120,
+        "date": "2026-06-18",
+        "location": "Bus Station"
+    },
+    {
+        "category": "Food",
+        "amount": 72,
+        "date": "2026-06-18",
+        "location": "Nandos"
+    },
+    {
+        "category": "Food",
+        "amount": 110,
+        "date": "2026-06-18",
+        "location": "MacMillan Restaurant"
+    },
+    {
+        "category": "Utilities",
+        "amount": 990,
+        "date": "2026-06-18",
+        "location": "House"
+    }
+]
